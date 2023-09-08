@@ -1,0 +1,46 @@
+
+#div1{
+    background-color: #ff8989;
+    width : 32%;
+    height: 300px;
+    display: inline-block;
+
+
+}
+#div2{
+    background-color: #88f7ce;
+   
+    width : 32%;
+    height: 300px;
+     display: inline-block;
+    
+}
+#div3{
+    background-color: #e29df2;
+    
+    width : 32%;
+    height: 300px;
+     display: inline-block;
+}
+
+
+@media screen and (max-width: 600px) {
+    #div1{
+      width: 100%;
+
+    }
+    #div2{
+      width: 100%;
+        margin-top: -0.73%;
+        
+
+    }
+    #div3{
+      width: 100%;
+        margin-top: -0.73%
+
+    }
+}
+
+
+
